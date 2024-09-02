@@ -1,0 +1,73 @@
+/* .navbar{
+  background-color: black;
+  color: white;
+  height: 100px;
+
+}
+
+.nav-links {
+  color: white;
+  text-decoration: none;
+  padding: 0px 10px;
+ 
+  }
+.navList{
+  list-style-type: none;
+  padding-left: 0;
+  margin-bottom: 0; 
+ 
+}
+
+.navList li{
+  display: inline-block;
+  
+  padding: 30px 15px 10px 0;
+
+} */
+
+.logo{
+  padding: 10px 10px;
+  height: 99px;
+  width: 99px;
+  border-radius: 50px;
+  float: right
+}
+
+
+.sub-header{
+     background-color: cadetblue;
+     margin-top: 5px;
+     height: 200px;
+     font-size: larger;
+     color: white;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+}
+
+
+
+.content{
+  height: 250px;
+}
+
+
+.content-para{
+  
+  
+  height: 8.2em;                /* Set height to accommodate desired number of lines */
+  overflow: hidden;             /* Hide overflowed content */
+  display: -webkit-box;         /* Use a flexible box model */
+  -webkit-box-orient: vertical; 
+  line-clamp: 5;
+  
+  -webkit-line-clamp: 5;        /* Number of lines before truncation */
+  text-overflow: ellipsis;      /* Add ellipsis */
+  line-height: 1.6em; 
+}
+
+ .table th{
+  
+  padding-right: 5.4rem;
+ }
+
