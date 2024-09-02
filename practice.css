@@ -1,0 +1,49 @@
+.banner{
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+
+
+
+.center-heading {
+    position: absolute;
+    top: 40%;
+    left: 33%;
+    transform: translate(-50%, -50%);
+    font-size: 30px;
+    color: tomato;
+    
+
+  }
+
+  .center{
+    position: absolute;
+    top: 48%;
+    left: 40%;
+    transform: translate(-50%, -50%);
+    font-size: 30px;
+    text-align: left;
+
+  }
+  .center-para {
+    position: absolute;
+    top: 65%;
+    left: 45.3%;
+    transform: translate(-50%, -50%);
+  
+    text-align: left;
+
+  }
+
+  .button-style{
+     background-color:tomato;
+     
+     
+  }
+
+  
+
+
+  
